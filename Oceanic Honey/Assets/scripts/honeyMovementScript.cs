@@ -20,4 +20,5 @@ public class honeyMovementScript : MonoBehaviour {
         Vector2 current = new Vector2(.05f, 0);
         rb.AddForce(current,ForceMode2D.Force);
     }
+
 }

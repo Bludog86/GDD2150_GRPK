@@ -39,5 +39,17 @@ public class playerMovementScript : MonoBehaviour
             transform.Translate(0, verticalSpeed, 0);
         }
     }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.gameObject.tag == "Honey")
+        {
+            Destroy(collision.gameObject);
+        }
+        else if (collision.gameObject.tag == "Boat")
+        {
+            Destroy(gameObject);
+        }
+    }
 }
 

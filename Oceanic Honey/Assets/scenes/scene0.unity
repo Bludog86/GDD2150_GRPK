@@ -122,11 +122,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4737411612914522, guid: ce5ed40d1e6aeea429a85e4f945da68b, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 4.005042
+      value: 2.96
       objectReference: {fileID: 0}
     - target: {fileID: 4737411612914522, guid: ce5ed40d1e6aeea429a85e4f945da68b, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -0.8231468
+      value: -0.93
       objectReference: {fileID: 0}
     - target: {fileID: 4737411612914522, guid: ce5ed40d1e6aeea429a85e4f945da68b, type: 2}
       propertyPath: m_LocalPosition.z
@@ -318,11 +318,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4060442942305798, guid: 5678d75df2256ed45923a87a577d4f4e, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -3.88
+      value: -4.96
       objectReference: {fileID: 0}
     - target: {fileID: 4060442942305798, guid: 5678d75df2256ed45923a87a577d4f4e, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -0.77
+      value: -0.81
       objectReference: {fileID: 0}
     - target: {fileID: 4060442942305798, guid: 5678d75df2256ed45923a87a577d4f4e, type: 2}
       propertyPath: m_LocalPosition.z
@@ -360,11 +360,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4398425277919124, guid: 72051ac1505c79641ba7a3823eefda63, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -2.96
+      value: -2.03
       objectReference: {fileID: 0}
     - target: {fileID: 4398425277919124, guid: 72051ac1505c79641ba7a3823eefda63, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -0.89
+      value: -0.85
       objectReference: {fileID: 0}
     - target: {fileID: 4398425277919124, guid: 72051ac1505c79641ba7a3823eefda63, type: 2}
       propertyPath: m_LocalPosition.z
@@ -389,11 +389,6 @@ Prefab:
     - target: {fileID: 4398425277919124, guid: 72051ac1505c79641ba7a3823eefda63, type: 2}
       propertyPath: m_RootOrder
       value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 212021367189713608, guid: 72051ac1505c79641ba7a3823eefda63,
-        type: 2}
-      propertyPath: m_SortingOrder
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72051ac1505c79641ba7a3823eefda63, type: 2}
